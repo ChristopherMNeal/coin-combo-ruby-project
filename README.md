@@ -29,8 +29,7 @@ _(Note: Ruby gem dependencies will be installed automatically by Bundler.)_
 * Clone the GitHub repository: [https://github.com/christophermneal/coin-combo-ruby-project](https://github.com/christophermneal/coin-combo-ruby-project)
 * From the main project directory, enter `bundle install` in the terminal to populate gems.
 * Enter `rspec` into the terminal to confirm passing of all tests.
-* Enter `ruby app.rb` to run the program with Sinatra.
-* Open browswer and enter the url http://localhost:4567/ unless otherwise prompted in the terminal.
+* Enter `ruby coin_combo_script.rb` into the terminal run the program script.
 
 ## Known Bugs
 
